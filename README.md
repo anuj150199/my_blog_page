@@ -1,7 +1,7 @@
 # My_Blog_Page
 The website provides for a basic structure of a bog page.The page uses HTML CSS and Javascript concepts.It was created to translate theoretical knowledge into a working website.
 
-->The blog page starts of with a navigation bar to provide for the movevement to other pages.We use an unordered list to create the entries in the navigation bar.The flex-box property of css to display the list items in a elegant manner.The navigation bar is responsive in nature and we use jquery to toggle the list items when the screen size is reduced.
+->The blog page starts of with a navigation bar to provide for the movevement to other pages.We use an unordered list to create the entries in the navigation bar.The flex-box property of css to display the list items in an elegant manner.The navigation bar is responsive in nature and we use jquery to toggle the list items when the screen size is reduced.
 
 ->We then have the hero section displaying the main motive of our website.
 
@@ -17,6 +17,6 @@ The website provides for a basic structure of a bog page.The page uses HTML CSS 
 
 ->We provide for a pagination for easier movement among the different blog pages.
 
-->The footer section provides for navigation , the social icons to the various social pages and the privacy policy.
+->The footer section provides for navigation , the social icons our various social pages and the privacy policy.
 
-->We then use the media queries to make our pages responsive by provide appropriate break points.
+->We then use the media queries to make our pages responsive by providing appropriate break points.
