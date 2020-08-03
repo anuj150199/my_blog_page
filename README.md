@@ -1,5 +1,5 @@
 # My_Blog_Page
-The website provides for a basic structure of a bog page.The page uses HTML CSS and Javascript concepts.It was created to transalte theoritical knowledge into a working website.
+The website provides for a basic structure of a bog page.The page uses HTML CSS and Javascript concepts.It was created to translate theoretical knowledge into a working website.
 
 ->The blog page starts of with a navigation bar to provide for the movevement to other pages.We use an unordered list to create the entries in the navigation bar.The flex-box property of css to display the list items in a elegant manner.The navigation bar is responsive in nature and we use jquery to toggle the list items when the screen size is reduced.
 
